@@ -382,6 +382,15 @@ nav .fas{
         height: 100px;
         margin-bottom: 50%;
     }
+    .hero-text h1{
+        font-size: 25px
+    }
+    .hero-text p{
+        font-size: 15px
+    }
+    .logo{
+        font-size: 35px;
+    }
     .work{
         margin: 10%;
     }
